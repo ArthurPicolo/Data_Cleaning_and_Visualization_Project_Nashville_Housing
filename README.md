@@ -1,4 +1,4 @@
-# Nashville Housing Data Project
+# Data Cleaning and Visualization Project: Nashville Housing Dataset
 
 The primary goal of this project was to clean and organize data from the Nashville Housing Dataset, available in the repository, and visualize this data using Power BI. This project allowed me to apply various data analysis techniques, including:
 
