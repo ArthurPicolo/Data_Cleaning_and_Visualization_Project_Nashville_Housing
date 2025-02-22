@@ -89,6 +89,8 @@ Using Power BI, I tested various dashboard visualizations and created a final da
 
 ![Dashboard](Dashboard.png)
 
+The complete visualization can be accessed here: [Dashboard]([https://public.tableau.com/app/profile/arthur.picolo.dos.reis/viz/CovidDashboard_17371238803370/Dashboard](https://app.powerbi.com/groups/me/reports/8af8f5b1-e677-435d-ba7a-a1bf76636dd9/673ab8fea8034b1e1342?experience=power-bi)).
+
 ### Key Insights
 
 Analyzing the data with SQL and Power BI revealed several important patterns:
